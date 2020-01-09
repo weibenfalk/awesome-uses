@@ -38,7 +38,7 @@ const pages = [
    {
     name: 'Thomas Weibenfalk',
     description:
-      'Passionate developer, course creator, youtuber, designer and musician from Sweden',
+      'Passionate developer, course creator, Youtuber, designer and musician from Sweden',
     url: 'https://www.weibenfalk.com/uses/',
     twitter: '@weibenfalk',
     emoji: '💾',
